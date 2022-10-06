@@ -1,0 +1,24 @@
+.borderRed{
+    border: solid red;
+}
+.borderGreen{
+    border: solid greenyellow;
+}
+.borderPink{
+    border: solid pink;
+}
+.borderBlack{
+    border: solid black;
+}
+.borderBlue{
+    border: solid blue;
+}
+.coolText1{
+    font-size: 30px;
+    color: red;
+    text-shadow: black 1px 1px 3px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.flexDisp{
+    display: flex;
+}
