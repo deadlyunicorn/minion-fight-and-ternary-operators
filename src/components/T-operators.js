@@ -97,7 +97,7 @@ export const Magician = () =>{
     }
 
     let gainRed =()=>{
-        if (hpRed>0 && hpRed<(80+10*xp)){
+        if (hpRed>0 && hpRed<(80+5*xp)){ ///Need to fix the code in other parts in order not to glitch when hpRed is too much
             redUpdate(hpRed+10*(xp**(1/2)))
         }
     }
