@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+## League Of Legends minion fight.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Story:
+As I could see when writing this README file this webapp has an unused component named "Ternary".   
+I can imagine I was learning about ternary operators when I created this. Perhaps I created this as a break-free and reward for all my efforts.  
+There was a month I had stopped programming because I got my first job ever. (Not related to IT) (Apparently I didn't have enough time for life-ing, school, working AND programming. I eventually quit.).   
+I am not sure when I initially wrote this webapp but I remember I showed it off to my classmates that didn't know how to write webapps yet and I felt so proud ;p.   
+(Not just for the greater knoweledge possesion but also for showing them that they will also be able to do similar things if they tried hard enough, sometime).  
+It's cool as I can use this app for a timestamp in my life. And also a sample to compare how much I have evolved my awful CSS and how what may soemthing that may look great at some point, may look awful to the same person in the future XD.   
+(Tho I think that this "Game" was an impulsive thought I had and just made it in one night or less hehe.)
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Things to note:  
++ The CSS breaking float numbers were intentional, and a reference to LoL's perfect non buggy Gaming experience. 
++ I am not sure if using URLs for the image elements was intentional, but I can guess it was.
++ 24-2-2023 I am adding the image files to the repository so that sometime in the future, the app doesn't look like a total dissapointment due to broken links. (Rip img2img, you lasted less than a year since I added you here)
++ I could update the source code, and replace the image URLs to local links, but to be honest looking at that React file routing, compared to what I've been used to for the past couple of months (Next.js), gives me  shivers.
++ The app apparently contains an example on Ternary Operators. :D
